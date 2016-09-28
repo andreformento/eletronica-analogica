@@ -1,0 +1,48 @@
+Anotações
+lei de kirchhoff
+I1 + I2 + (-I3) = 0
+
+i = v/r
+lei de ohm
+
+serie soma de resistores
+paralelo divisao
+
+
+
+diodo
+processo dopage
+que lado conduz e que nao conduz
+
+Aplicacao do semicondutor
+entra alternada, mas sai continua, porque não 
+como funciona transformador: funcionamento magnetico, aplica tensão, gera fluxo magnético, gera tensao do outro lado
+KT = U1 = I2 = N1 (divide)
+     U2 = I1 = N2
+n-> numero de espiras
+
+transforma alternada em outro tipo de tensão
+
+transformador com derivação (tap central ou não)
+
+retificador monofasico de meia onda: entre senoide, só passa positivo: resulta somente em meia onda (só passa positivo, o negativo não)
+onda no diodo é pra baixo
+tem que saber a forma de onda
+
+circuito retificador monofasico com center tape, onda completa, porem só utiliza metade da tensão
+atraso de 180 graus
+
+retificador em ponte - usa 4 diodos
+é o mais caro, mas o melhor, utiliza tensão total
+
+saber desenhar forma de onda sem capacitor, como funciona e como calcula
+
+
+transistor de junção
+NPN/PNP
+Exita mais, passa mais, exita menos, passa menos
+
+exercicio com transistor (saber calcular)
+
+
+denilson.carmassi@ibta.edu.br
